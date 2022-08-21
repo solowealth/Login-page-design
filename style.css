@@ -1,0 +1,43 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: #264ECA;
+}
+
+.main-container{
+    margin: 0px auto;
+    justify-content: center;
+    text-align: center;
+    margin: 200px auto;
+}
+
+.cart-container{
+    padding-bottom: 50px;
+
+}
+#arrow-up{
+    /* margin-right: 50px; */
+}
+
+.username{
+    height: 30px;
+
+    border-radius: 10px;
+}
+
+.label-container{
+
+}
+
+.btn{
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: rgb(241, 246, 248);
+    cursor: pointer;
+    outline: none;
+    border: none;
+    margin: 10px auto 40px;
+    font-size: 30px;
+    }
